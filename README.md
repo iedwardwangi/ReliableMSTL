@@ -1,6 +1,6 @@
 # ReliableMSTL
 
-This repository contains the code for [Towards more Reliable Transfer Learning] (link to be added) by [Zirui Wang](https://www.cs.cmu.edu/~ziruiw/) and [Jaime Carbonell](https://www.cs.cmu.edu/~jgc/).
+This repository contains the code for [Towards more Reliable Transfer Learning](https://arxiv.org/abs/1807.02235) by [Zirui Wang](https://www.cs.cmu.edu/~ziruiw/) and [Jaime Carbonell](https://www.cs.cmu.edu/~jgc/).
 
 Two methods, PW-MSTL & AMSAT, are proposed to tackle the challenge of multi-source transfer learning when sources exhibiting diverse reliabilities.
 
